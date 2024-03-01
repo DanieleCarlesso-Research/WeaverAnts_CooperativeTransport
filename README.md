@@ -8,7 +8,7 @@ by Daniele Carlesso, Madelyne Stewardson, Donald James McLean, Simon Garnier, Of
 
 ```
 
-✓	Download Archive.7z and extract files.
+✓	Download Data&Code.zip and extract files.
 ✓	Ensure that all files are in the same folder for the code to run properly.
 ✓	The repository also includes a summary HTML file for easier visualisation.
 ```
