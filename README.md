@@ -1,6 +1,6 @@
 # Leaderless consensus decision-making determines cooperative transport direction in weaver ants
 
-[![DOI](https://zenodo.org/badge/765491167.svg)](https://zenodo.org/doi/10.5281/zenodo.10729999)
+[![DOI](https://zenodo.org/badge/765491167.svg)](https://zenodo.org/doi/10.5281/zenodo.12738277)
 
 This repository contains R code and datasets used for analyses in the paper:
 
